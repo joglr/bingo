@@ -1,0 +1,8 @@
+- Make sure that no duplicates occur in a column
+This is done by selecting all numbers for one card
+from the same pool.
+
+- Make sure every column has at least one number
+This is done by performing the deletion when the whole card
+has been generated and disallow deletion if there is only
+one number left in the column.
